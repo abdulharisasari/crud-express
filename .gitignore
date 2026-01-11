@@ -1,1 +1,8 @@
+﻿# Node.js
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# Firebase service account credentials
 src/config/firebase-service-account.json
