@@ -1,6 +1,0 @@
-# Node.js
-node_modules/
-.env
-
-# Firebase service account credentials
-src/config/firebase-service-account.json
